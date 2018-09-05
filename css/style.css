@@ -1,0 +1,14 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #ccc;
+  font-size: 14px;
+  color: #000; }
+  body ul {
+    content: 'hi';
+    display: block; }
+    body ul li {
+      display: inline-block;
+      font-size: 12px; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiIiwic291cmNlcyI6WyJzdHlsZS5jc3MiXSwic291cmNlc0NvbnRlbnQiOlsiYm9keSB7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgaGVpZ2h0OiAxMDAlO1xyXG4gIGJhY2tncm91bmQtY29sb3I6ICNjY2M7XHJcbiAgZm9udC1zaXplOiAxNHB4O1xyXG4gIGNvbG9yOiAjMDAwOyB9XHJcbiAgYm9keSB1bCB7XHJcbiAgICBjb250ZW50OiAnaGknO1xyXG4gICAgZGlzcGxheTogYmxvY2s7IH1cclxuICAgIGJvZHkgdWwgbGkge1xyXG4gICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XHJcbiAgICAgIGZvbnQtc2l6ZTogMTJweDsgfVxyXG4iXSwiZmlsZSI6InN0eWxlLmNzcyJ9 */

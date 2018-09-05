@@ -1,7 +1,11 @@
 body {
     width: 100%;
-    background-color: #fff;
+    height:100%;
+    background-color: #ccc;
+    font-size: 14px;
+    color:#000;
     ul{
+        content: 'hi';
         display:block;
         li{
             display:inline-block;
